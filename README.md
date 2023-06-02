@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esse repositório consiste na implementação de um Front End e de um Back End de um CRUD básico de usuários. Para mais informações sobre cada parte, acesse um README individual deles.
+Esse repositório consiste na implementação de um Front End e de um Back End de um CRUD básico de usuários. Para mais informações sobre cada parte, acesse o README individual de cada um.
 
 ## Execução
 1. Primeiramente, digite no terminal para clonar o repositório:
